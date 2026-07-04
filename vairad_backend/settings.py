@@ -33,10 +33,11 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_simplejwt',
     'corsheaders',
-
+    'django_filters',
     # Our apps (will add these as we build them)
     'accounts',
     'tasks',
+    
     # 'annotations',
 ]
 
