@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     'corsheaders',
 
     # Our apps (will add these as we build them)
-    # 'accounts',
+    'accounts',
     # 'tasks',
     # 'annotations',
 ]
