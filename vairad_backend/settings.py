@@ -36,7 +36,7 @@ INSTALLED_APPS = [
 
     # Our apps (will add these as we build them)
     'accounts',
-    # 'tasks',
+    'tasks',
     # 'annotations',
 ]
 
